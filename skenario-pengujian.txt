@@ -1,0 +1,31 @@
+Testing ViewModel :
+
+1.1 LoginViewModel
+	1.1.1 Ketika berhasil Login
+		a) Memastikan data tidak Null.
+		b) Memastikan menegmbalikan Result.Success
+	1.1.2 Ketika gagal Login
+		a) Memastikan mengembalikan Result.Failure
+
+1.2 RegisterViewModel
+	1.2.1 Ketika berhasil Register
+		a) Memastikan data tidak Null.
+		b) Memastikan menegmbalikan Result.Success
+	1.2.2 Ketika gagal Register
+		a) Memastikan mengembalikan Result.Failure
+
+1.3 PostViewModel
+	1.3.1 Ketika berhasil memposting Story
+		a) Memastikan mengembalikan Result.Success
+	1.3.2 Ketika gagal memposting Story
+		a) Memastikan mengembalikan Result.Failure
+
+1.4 MapsViewModel
+	1.4.1 Ketika marker story muncul di Maps sesuai lokasi
+		a) Memastikan mengembalikan Result.Success
+	1.4.2 Ketika marker story tidak muncul di Maps
+		a) Memastikan mengembalikan Result.Failure
+
+1.5 MainViewModel
+	1.5.1 Data pada List tidak boleh kosong.
+		a) Memastikan mengembalikan Result.Success

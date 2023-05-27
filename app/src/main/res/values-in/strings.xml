@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Dicoding Story App</string>
+    <string name="invalid_email">Format Email Salah</string>
+    <string name="empty_email">Masukkan Email</string>
+    <string name="empty_password">Masukkan Password</string>
+    <string name="password_length">Password harus lebih dari 5 karakter</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_email">Masukkan email anda</string>
+    <string name="enter_pass">Masukkan password anda</string>
+    <string name="link_register">Register Sekarang!</string>
+    <string name="cek_akun">Belum punya akun?</string>
+    <string name="register">Register</string>
+    <string name="punya_akun">Sudah punya akun?</string>
+    <string name="link_login">Log In sekarang!</string>
+    <string name="home">Beranda</string>
+    <string name="add_post">Tambah Cerita</string>
+    <string name="profile">Profil</string>
+    <string name="image">Gambar</string>
+    <string name="name">Nama</string>
+    <string name="photo">Foto</string>
+    <string name="desc">Deskripsi</string>
+    <string name="title_app">dicoding story app</string>
+    <string name="title_home">MainActivity</string>
+    <string name="title_dashboard">PodtActivity</string>
+    <string name="title_profile">Profile Activity</string>
+    <string name="title_profil">Profile Activity</string>
+    <string name="logout">Log Out</string>
+    <string name="add_story">Add Story</string>
+    <string name="log_out">Log Out</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">Kamera</string>
+    <string name="post_desc">Apa yang sedang kamu pikirkan?</string>
+    <string name="languange">Bahasa</string>
+
+</resources>
